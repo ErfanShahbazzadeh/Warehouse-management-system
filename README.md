@@ -132,14 +132,12 @@ Edit `config.json` to customize behavior:
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
-```
-[Login Window]
-![Login window](https://github.com/user-attachments/assets/2289389c-4e39-4ac4-a9d3-3cdc7c9d3269)
 
-[Main Dashboard]
-![Main Dashboard](https://github.com/user-attachments/assets/6dd1c4f9-eb75-4f71-bfd2-cc82fc5a3b8c)
-```
+![Login window](Screenshots/Warehouse%20Manager%20-%20Login.png)
+
+![Main Dashboard](Screenshots/Warehouse%20Manager.png)
+
+![Add_raw_material_window](Screenshots/Add%20Raw%20Material.png)
 
 ## 🤝 Contributing
 
