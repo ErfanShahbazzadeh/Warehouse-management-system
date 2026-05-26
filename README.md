@@ -171,4 +171,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 **Star this repository** ⭐ if you find it useful for your warehouse management needs!
-```
